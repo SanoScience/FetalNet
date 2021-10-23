@@ -9,5 +9,16 @@ under models/FetalNet.py file.
 Pre-training weights for FetalNet model: 
 [Google Drive](https://drive.google.com/file/d/1lTmOmiiLMtELhd0HKjVsg_MoWEZ3oovN/view?usp=sharing)
 
-Last update 10.10.2021
+Last update 21.10.2021
 
+
+If you are using our codes or weights, please cite our research work:
+
+```
+@article{plotka2021fetalnet,
+  title={FetalNet: Multi-task deep learning framework for fetal ultrasound biometric measurements},
+  author={P{\l}otka, Szymon and W{\l}odarczyk, Tomasz and Klasa, Adam and Lipa, Micha{\l} and Sitek, Arkadiusz and Trzci{\'n}ski, Tomasz},
+  journal={arXiv preprint arXiv:2107.06943},
+  year={2021}
+}
+```
